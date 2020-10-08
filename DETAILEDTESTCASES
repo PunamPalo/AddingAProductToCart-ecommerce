@@ -1,6 +1,0 @@
-# AddingAProductToCart-ecommerce
-TestCase 1 - Get the url
-TestCase 2 - Check results on clicking the "BestSellers" link
-TestCase 3 - Check results on selection of "Books"
-TestCase 4 - Check results after enter the desired book
-TestCase 5 - After geting the result click that item to "Add to cart"
